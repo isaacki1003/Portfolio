@@ -5,11 +5,11 @@ cover: './appbnb.png'
 github: 'https://github.com/isaacki1003/AppBnB'
 external: 'https://appbnb.onrender.com/'
 tech:
+  - Javascript
   - React
-  - Styled Components
+  - Redux
   - Express
-  - Spotify API
   - Heroku
 ---
 
-A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.
+AppBnb is a feature-rich clone of the popular vacation rental platform, AirBnB. With AppBnb, users have the capability to list their properties and leave reviews after their stay. The development of this project was a great opportunity for our team to work with Express and utilize Heroku for deployment, providing a comprehensive experience in web development.

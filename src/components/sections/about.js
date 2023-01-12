@@ -55,7 +55,7 @@ const StyledPic = styled.div`
     width: 70%;
   }
 
-  .footer1 {
+  a.footer1 {
     font-size: 1px;
   }
 

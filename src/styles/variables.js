@@ -21,7 +21,7 @@ const variables = css`
       sans-serif;
     --font-mono: 'SF Mono', 'Fira Code', 'Fira Mono', 'Roboto Mono', monospace;
 
-    --fz-xxs: 4px;
+    --fz-xxs: 12px;
     --fz-xs: 13px;
     --fz-sm: 14px;
     --fz-md: 16px;

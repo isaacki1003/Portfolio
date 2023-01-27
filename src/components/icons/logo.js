@@ -11,16 +11,9 @@ const IconLogo = () => (
           stroke="currentColor"
           strokeWidth="5"
         />
-        <rect
-          id="Shape"
-          x="39"
-          y="22"
-          width="5"
-          height="40"
-          fill="currentColor"
-        />
       </g>
   </svg>
 );
+
 
 export default IconLogo;

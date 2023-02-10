@@ -15,4 +15,4 @@ tech:
   - Render
 ---
 
-Our project replicates Yelp, a review site enabling users to create and review businesses. It integrates Google Maps for location, search and directions. The platform is user-friendly, easy to navigate and has powerful search capabilities, catering to both businesses and consumers.
+This project replicates Yelp, a review site enabling users to create and review businesses. It integrates Google Maps for location, search and directions. The platform is user-friendly, easy to navigate and has powerful search capabilities, catering to both businesses and consumers.

@@ -2,7 +2,7 @@
 date: '3'
 title: 'Punchender'
 cover: './punchender.png'
-github: 'https://appbnb.onrender.com/'
+github: 'https://punchender-ry4p.onrender.com/'
 cta: 'https://github.com/aromito7/punchender'
 tech:
   - Javascript

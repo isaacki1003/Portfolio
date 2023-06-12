@@ -1,5 +1,5 @@
 ---
-date: '3'
+date: '2'
 title: 'AppBnb'
 cover: './appbnb.png'
 github: 'https://github.com/isaacki1003/AppBnB'

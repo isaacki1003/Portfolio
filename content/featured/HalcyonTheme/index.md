@@ -5,7 +5,7 @@ cover: './howl.png'
 github: 'https://github.com/isaacki1003/howl'
 external: 'https://howl-qdy6.onrender.com/'
 tech:
-  - Javascript
+  - JavaScript
   - React
   - Redux
   - Python

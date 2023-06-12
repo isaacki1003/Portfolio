@@ -1,11 +1,11 @@
 ---
-date: '3'
+date: '4'
 title: 'Punchender'
 cover: './punchender.png'
 github: 'https://punchender-ry4p.onrender.com/'
 cta: 'https://github.com/aromito7/punchender'
 tech:
-  - Javascript
+  - JavaScript
   - React
   - Redux
   - Python

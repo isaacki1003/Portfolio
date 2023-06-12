@@ -1,11 +1,11 @@
 ---
-date: '2'
+date: '3'
 title: 'AppBnb'
 cover: './appbnb.png'
 github: 'https://github.com/isaacki1003/AppBnB'
 external: 'https://appbnb.onrender.com/'
 tech:
-  - Javascript
+  - JavaScript
   - React
   - Redux
   - Express

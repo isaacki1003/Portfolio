@@ -139,14 +139,15 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Isaac and I am a full-stack software engineer. I currently reside in Los Angeles, CA.
-              My interest in web development started back in 2018 when I took a couple computer science courses at UCLA.
+              Hello! My name is Isaac and I am a full-stack software engineer living in Los Angeles, CA.
+              My interest in web development started back in 2018 when I developed a zombie survival game in a computer science course at UCLA.
+              While it may have been a simple turn-based game with a matrix as the map and symbols to represent characters, it ignited my love for software engineering and the creative potential it offers.
               Deciding to jump into the world of software development, I enrolled in a coding bootcamp to gain the skills I needed.
               It was a game changer for me, and I am excited for what lies ahead.
             </p>
 
             <p>
-              My main focus these days includes learning new technologies and building projects with them.
+              In my spare time, I enjoy playing video games, attending concerts, and trying new foods!
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>

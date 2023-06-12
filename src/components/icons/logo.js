@@ -4,6 +4,13 @@ const IconLogo = () => (
   <svg id="logo" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 84 96">
     <title>Logo</title>
     <g transform="translate(-8.000000, -2.000000)">
+  <path
+    d="M39,30 L39,61"
+    stroke="currentColor"
+    strokeWidth="5"
+    strokeLinecap="round"
+  />
+
         <polygon
           id="hexagon"
           points="39 10 69 35 69 61 39 86 9 61 9 35"

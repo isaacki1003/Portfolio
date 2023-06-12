@@ -4,6 +4,7 @@ import styled from 'styled-components';
 import { navDelay, loaderDelay } from '@utils';
 import { usePrefersReducedMotion } from '@hooks';
 import { email } from '@config'
+import ReactModal from 'react-modal';
 
 
 const StyledHeroSection = styled.section`
@@ -44,13 +45,14 @@ const StyledHeroSection = styled.section`
 
   .email-link {
     ${({ theme }) => theme.mixins.bigButton};
-    margin-top: 50px;
+    margin-top: 30px;
   }
 `;
 
 const Hero = () => {
   const [isMounted, setIsMounted] = useState(false);
   const prefersReducedMotion = usePrefersReducedMotion();
+  const [isModalOpen, setIsModalOpen] = useState(false);
 
   useEffect(() => {
     if (prefersReducedMotion) {
@@ -70,13 +72,12 @@ const Hero = () => {
         I am a software engineer with a focus on developing outstanding digital experiences, including design components.
         <br>
         </br>Welcome to my site!
+        <br></br>
       </p>
     </>
   );
   const five = (
-    <a className='email-link' href={`mailto:${email}`}>
-      Get In Touch
-    </a>
+    <button className='email-link' onClick={() => window.location.href = '/#contact'}>Get In Touch</button>
   );
 
   const items = [one, two, three, four, five];
